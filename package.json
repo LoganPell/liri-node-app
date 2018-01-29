@@ -1,0 +1,20 @@
+{
+  "name": "nodepackages",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "moment-timezone": "^0.5.14",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  },
+  "version": "1.0.0",
+  "main": "keys.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
