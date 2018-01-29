@@ -62,7 +62,7 @@ function options (option) {
 
  
 function myTweets() {
-	var params = {screen_name: '', count:20, user_id: 955267080353468416};
+	var params = {screen_name: '', count:8, user_id: VelcroSandal};
 	client.get('statuses/user_timeline', params, function(error, tweets, response) {	
 	    if (!error) {
 	    	tweetResponse = tweets;
